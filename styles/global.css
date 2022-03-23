@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@import url('hero.css');
+@import url('about.css');
+@import url('jewelry.css');
+@import url('gowns.css');
+@import url('footwear.css');
+@import url('footer.css');
+@import url('examples.css');
+
+:root {
+  --textColor: #724665;
+  --white: #ffebe7;
+  --accent1: #ffaa99;
+  --accent2: #ffcbc2;
+  --title: 'Playfair Display', serif;
+  --text: 'Urbanist', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.secttion-wrapper {
+  margin: 0 auto;
+  width: 80%;
+}

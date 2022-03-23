@@ -1,0 +1,12 @@
+.footer {
+  background-color: #724665;
+  color: #ffebe7;
+  text-align: center;
+  height: 160px;
+  width: 100%;
+  font-family: "Urbanist", sans-serif;
+  letter-spacing: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
