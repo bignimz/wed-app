@@ -58,7 +58,7 @@
 }
 
 .shopping-cart-btn {
-  background-image: url('./assets/icons/cart.svg');
+  background-image: url('../assets/icons/cart.svg');
   background-position: center;
   background-repeat: no-repeat;
 }
